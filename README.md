@@ -1,4 +1,5 @@
-MvcResultTools
+ASP.NET MVC Custom Result Tools
 ==============
 
-mvc custom results
+List of custom results
+ - PdfResult
